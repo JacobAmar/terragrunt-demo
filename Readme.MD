@@ -19,3 +19,8 @@ remote_state {
   }
 }
 ```
+- run
+```bash
+cd infrastructure
+terragrunt run-all apply
+```
